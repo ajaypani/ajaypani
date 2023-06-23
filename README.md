@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @ajaypani Ajay Panigrahi
 - 👀 I’m interested in Serverless, Kubernetes, Infrastructure as Code , containers, AWS, Python , Reactive / Predictive monitoring
-- 🌱 I’m currently learning service mesh, GitOps ,Terraform
+- 🌱 I’m currently learning service mesh, GitOps , LLMs, Generative AI
 - 💞️ I’m looking to collaborate on any cloud native 
 - 📫 How to reach me on my email ajaypanigrahi2385@gmail.com
 
