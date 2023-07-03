@@ -1,10 +1,13 @@
  - 👋 Hi, I’m @ajaypani Ajay Panigrahi
-- 👀 I’m interested in Serverless, Kubernetes, Infrastructure as Code , containers, AWS, Python , Reactive / Predictive monitoring
-- 🌱 I’m currently learning service mesh, GitOps , LLMs, Generative AI
-- 💞️ I’m looking to collaborate on any cloud native 
+- 👀 I’m Experienced in building serverless architectures, managing Kubernetes clusters, and implementing Infrastructure as Code with AWS and Python.
+- 🌱 Constantly diving deep into service mesh architecture, GitOps methodologies, LLMs, and the fascinating world of generative AI.
+- 💞️ Eager to collaborate on innovative cloud-native projects that push the boundaries of scalability, reliability, and efficiency.
 - 📫 How to reach me on my email ajaypanigrahi2385@gmail.com
 
+- Certified Kubernetes Admin, Advanced certifications in AWS.
+- Soon to be Terraform certified Associate
 <!---
 ajaypani/ajaypani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
