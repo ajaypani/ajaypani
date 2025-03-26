@@ -10,7 +10,7 @@
 - Terraform certified Associate
 - Azure AI Engineer
 
-- [![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=plastic&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+- [![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=plastic&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 <!---
 ajaypani/ajaypani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
